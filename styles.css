@@ -1,0 +1,18 @@
+
+.box{
+    height: 200px;
+    width: 300px;
+    background-color: beige;
+    margin: 20px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height:500px;
+
+}
+h3{
+    text-align:center;
+}
